@@ -1,2 +1,0 @@
-# welcome
-my new github
